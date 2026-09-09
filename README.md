@@ -28,3 +28,4 @@ Projeto educacional com dados sintéticos para demonstrar SQL aplicado à preven
 - `queries/`: análises fundamentais, investigação, comportamento e score
 - `dashboard/`: views para consumo no BI
 - `docs/`: documentação complementar
+- `images/`: demonstração do schema utilizado
