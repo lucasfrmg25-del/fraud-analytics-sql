@@ -85,7 +85,7 @@ A etapa final combina `customers` e `transactions` para retornar:
 
 ## Portfólio
 
-A versão editorial do case está publicada no **The Freire Ledger**:
+A versão editorial do case está publicada no **Meu Portfólio**:
 https://lucasfrmg25-del.github.io/fraud-analytics-sql.html
 
 ---
